@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> /* pour exit */
+#include <stdlib.h>
 #include <sys/types.h> /* pour socket */
 #include <sys/socket.h>
 #include <string.h> /* pour memset */
